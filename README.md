@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-iman/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Noche de imán](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-iman/) |
+| **Get License** | [Obtain a Music License for Noche de imán](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-iman/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Noche de imán, me vuelves a atraer
+> Tienes ese toque que me hace enloquecer
+> Un juego de fuego en la oscuridad
+> Perdiendo el control en toda la ciudad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
